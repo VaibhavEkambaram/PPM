@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Passwords",
+    "slug": "Passwords",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+      "backgroundColor": "#002366"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+
+  }
+}

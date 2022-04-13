@@ -1,0 +1,46 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@react-native-clipboard/clipboard": "^1.8.4",
+    "@react-native-community/datetimepicker": "3.5.2",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/slider": "3.0.3",
+    "@react-native-picker/picker": "^2.0.3",
+    "@react-navigation/native": "^5.4.0",
+    "@react-navigation/stack": "^5.3.7",
+    "base-64": "^0.1.0",
+    "crypto-es": "^1.2.7",
+    "expo": "^42.0.0",
+    "expo-clipboard": "~1.1.0",
+    "expo-local-authentication": "~11.1.1",
+    "firebase": "8.2.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-elements": "^3.4.2",
+    "react-native-fab": "^1.0.18",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-keyboard-aware-scroll-view": "^0.9.1",
+    "react-native-options-menu": "^2.0.2",
+    "react-native-paper": "^4.9.2",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-shape": "^1.1.2",
+    "react-native-web": "^0.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0",
+    "@expo/vector-icons": "^12.0.0",
+    "babel-preset-expo": "8.3.0"
+  },
+  "private": true
+}
